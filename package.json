@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "mocha './test/*.js' && coveralls < coverage/lcov.info"
+    "test": "mocha './test/*.js'"
   },
   "author": "",
   "license": "MIT",
