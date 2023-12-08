@@ -5,11 +5,12 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "mocha \"./test/*.js\""
+    "test": "mocha './test/*.js'"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "chai": "^4.3.10",
     "mocha": "^10.2.0"
   }
 }
