@@ -1,13 +1,11 @@
-# Student template
+## Testing and test coverage reporting
+This repo contains the part 2 for the testing report. Ten of the most important methods are tested and test coverage is reported.
 
-## Purpose of this repository
+### Selected technologies
+Mocha - for unit testing the methods
+Chai - for assertions
+Coveralls - for test coverage reporting
+C8 - for generating test coverage data
 
-This is a project template for students participating in Software Testing course
-at Tampere University.
-
-The repository only contains the source code that is under testing, `package.json` skeleton
-and LICENSE file.
-
-Source code folder contains a separate license file that must **NOT** be removed under any circumstances!
-Removing this license file directly violates terms and conditions of the software under testing.
-Individuals who remove or modify the license file will also carry the consequences.
+### Test coverage
+[![Coverage Status](https://coveralls.io/repos/github/Aarons9090/COMP.SE.200-2023-2024-1/badge.svg?branch=main)](https://coveralls.io/github/Aarons9090/COMP.SE.200-2023-2024-1?branch=main)
